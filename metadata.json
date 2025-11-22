@@ -1,0 +1,5 @@
+{
+  "name": "Balatro Clone: Project Jimbo",
+  "description": "A web-based roguelike deck-builder inspired by Balatro. Features procedural background, CRT effects, complex scoring engine, and poker hand evaluation.",
+  "requestFramePermissions": []
+}
